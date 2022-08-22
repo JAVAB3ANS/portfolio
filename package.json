@@ -51,8 +51,11 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/javab3ans/portfolio.git"
+    "url": "git+https://github.com/javab3ans/portfolio.git"
   },
   "author": "Jason Vu",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javab3ans/portfolio/issues"
+  }
 }
