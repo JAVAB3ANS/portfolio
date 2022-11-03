@@ -1,3 +1,4 @@
+import React from "react"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faUser } from '@fortawesome/free-solid-svg-icons'
 
@@ -10,7 +11,7 @@ function AboutMe() {
                         <h2 className="heading"><FontAwesomeIcon icon={faUser} /> About Me</h2> 
                     </div>
                     <div className="col-md-8" id="about-desc">
-                        <p>I'm a Web Design and Engineering major with interests in full-stack development, information technology, and human-computer interface design.</p>
+                        <p>I'm super invested in full-stack development, information technology, and human-computer interface design.</p>
                     </div>
                 </div>
             </div>
